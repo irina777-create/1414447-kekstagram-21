@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ирина Григорьева](https://up.htmlacademy.ru/javascript/21/user/1414447).
-* Наставник: `Неизвестно`.
+* Наставник: `Сучков Кирилл`.
 
 ---
 
